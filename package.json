@@ -1,0 +1,19 @@
+{
+  "name": "techsolution-api",
+  "version": "1.0.0",
+  "description": "Api Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash1539/techSolution-api.git"
+  },
+  "author": "yash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yash1539/techSolution-api/issues"
+  },
+  "homepage": "https://github.com/yash1539/techSolution-api#readme"
+}
